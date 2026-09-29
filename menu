@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú de Actividades</title>
+</head>
+<body>
+
+    <h1>Mis Trabajos Web</h1>
+    <p>Selecciona una actividad para verla:</p>
+
+    <nav>
+        <ul>
+            <!-- Enlace a la primera práctica -->
+            <li><a href="practica1/index.html">Práctica 1: Mi primera página</a></li>
+
+            <!-- Enlace a la segunda práctica -->
+            <li><a href="practica2/index.html">Práctica 2: Proyecto CSS</a></li>
+        </ul>
+    </nav>
+
+</body>
+</html>
